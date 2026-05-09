@@ -13,8 +13,7 @@ Rust and Java developer with 15 years of experience in designing and maintaining
 - 2022 – 2026: Rust backend @ Inline Group — corporate procurement system.
   Designed and shipped two microservices from scratch; ownership-safety and async
   concurrency made the shift from Java worthwhile.
-- 2010 – 2022: Java/SAP backend — MDM systems at federal scale
-  (Rosatom, Transneft, Evroset, OMK). REST/BAPI integrations, portal UI,
+- 2010 – 2022: Java/SAP backend — MDM systems at federal scale. REST/BAPI integrations, portal UI,
   workflow engines.
 
 ## Contact
