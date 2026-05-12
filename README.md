@@ -5,6 +5,7 @@ Rust and Java developer with 15 years of experience in designing and maintaining
 ## Current stack
 
 - Rust · actix-web · axum · tokio · sqlx
+- Anchor · Solana · MPL-Core · LiteSVM · Next.js 15 · TypeScript · Irys/Arweave · Vercel
 - RabbitMQ · PostgreSQL
 - DDD · async · procedural macros
 
